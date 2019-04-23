@@ -1,7 +1,9 @@
 # handRecognition
 这是一个手势识别应用程序，主要使用CNN，Tensorflow和OpenCV。
 数据集在源码文件夹中
-模型的链接在模型链接txt文件中
+模型和录屏在百度网盘链接中，链接：https://pan.baidu.com/s/10yPpFVxoPXyD-KS3Wm9aNQ 
+提取码：129j 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 
 一、实验内容
 
